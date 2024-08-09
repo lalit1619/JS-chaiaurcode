@@ -11,3 +11,11 @@ else
 {
     console.log("you're not the right person");
 }
+if(firstName[0]==="L" || age >=18)
+    {
+    console.log("you're the right person");
+    }
+    else
+    {
+        console.log("you're not the right person");
+    }
