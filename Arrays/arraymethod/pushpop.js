@@ -14,3 +14,7 @@ let poped=fruits.pop();
 console.log(fruits);
 console.log(`poped fruit is ${poped}`);
 
+let vegetables=["Potato","Onion","Brinjal"];
+vegetables.push("Garlic");
+console.log(vegetables);
+

@@ -10,3 +10,4 @@ console.log(fruit2);
 
 
 //make the singualar of the array ie; fruit for fruits
+

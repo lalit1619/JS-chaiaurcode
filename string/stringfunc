@@ -1,0 +1,17 @@
+length
+charAt()
+slice (start,end)
+substring(start,end)
+substr(start,length)
+toUpperCase
+toLowerCase
+concat()
+trim( )
+trimend
+padstart()
+padend()
+replace()
+indexof()
+lastInderOf()
+search()
+includes()
